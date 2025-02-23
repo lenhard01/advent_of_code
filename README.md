@@ -5,6 +5,8 @@ challenges. Each day's puzzle is implemented in its own directory under
 the `2015` folder, with input files, solution scripts, and tests.
 
 ## Project Structure
+
+```
 advent_of_code/
 ├── 2023/
 │   ├── day01/
@@ -23,3 +25,4 @@ advent_of_code/
 │   └── utils.py           # Common helper functions, parsers, etc.
 └── main.py                # Optional: a runner script to execute any day’s solution
 
+```
